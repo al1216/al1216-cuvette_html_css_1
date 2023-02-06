@@ -1,1 +1,1 @@
-# al1216-cuvette_html_css_1
+# This website is the Assignment - 1 for the Cuvette course.
